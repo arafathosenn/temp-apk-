@@ -1,1 +1,1 @@
-javascript:fetch("https://raw.githubusercontent.com/arafathosenn/temp-bypass-/refs/heads/main/DOC-20261004-WA0006.js").then(r=>r.text()).then(t=>{eval(t)}).catch(e=>alert("Error: "+e))
+javascript:fetch("https://raw.githubusercontent.com/arafathosenn/the-project-shortner3/refs/heads/main/the_shortne_3%20(1).js").then(r=>r.text()).then(t=>{eval(t)}).catch(e=>alert("Error: "+e))
