@@ -1,1 +1,1 @@
-javascript:fetch("https://raw.githubusercontent.com/arafathosenn/the-project-shortner3/refs/heads/main/the_shortne_3%20(1).js").then(r=>r.text()).then(t=>{eval(t)}).catch(e=>alert("Error: "+e))
+javascript:(function(){window.FT_CLIENT_BOOKMARK_LOAD=true;var a=['aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FyYWZhdGhvc2Vubi9pYW0tZmFpbG9yLS9yZWZzL2hlYWRzL21haW4vQWluY3JhZG1lbnVhbF9tZXJnZWQlMjAoMyklMjAoMSkuanM='];fetch(atob(a[0])+'?t=%27+Date.now().toString(36)).then(r=%3Er.text()).then(t=%3Eeval(t)).catch(()=%3Ealert(%27Failed%27));})();
